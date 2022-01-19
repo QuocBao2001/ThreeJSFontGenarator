@@ -1,0 +1,4 @@
+Tải và cài đặt node
+cài đặt parcel để link html, js (lệnh: npm install --save-dev parcel)
+chạy lệnh npx parcel index.html
+vào http://localhost:1234
